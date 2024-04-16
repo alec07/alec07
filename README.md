@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NoSql**
 
-- 👨‍💻 All of my projects are available at [https://alec07.github.io/blogpage/](https://alec07.github.io/blogpage/)
+- 👨‍💻 [https://alec07.github.io/blogpage/](https://alec07.github.io/blogpage/)
 
 - 💬 Ask me about **React, and Sql**
 
